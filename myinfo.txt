@@ -5,4 +5,5 @@ changed again
 
 i am changed by git hub editor
 
-changed after git checkout main
+
+doing this after git switch samay
