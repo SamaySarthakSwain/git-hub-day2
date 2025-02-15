@@ -4,3 +4,5 @@ changed fir github
 changed again
 
 i am changed by git hub editor
+
+changed after git checkout main
